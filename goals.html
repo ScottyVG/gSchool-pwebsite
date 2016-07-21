@@ -1,105 +1,4 @@
 <!DOCTYPE html>
-<style>
-
-.pitch{
-	background:rgb(235,235,235);
-	background-image:url(/images/book.jpg);
-	background-size:cover;
-
-	color:rgba(255,255,255,0.7);
-
-	padding:15% 0px;
-
-	font-family:'lato';
-	font-weight:400;
-	text-align:center;
-}
-.pitch h1{
-	font-size:35px;
-
-	color:rgb(255,255,255);
-
-	font-weight:700;
-
-	margin:0px;
-	padding:0px 100px;
-	padding-bottom:25px;
-}
-.pitch h1:before{
-	content:'Welcome to my ';
-
-	font-weight:400;
-
-	font-size:28px;
-	color:rgba(255,255,255,0.7);
-}
-.pitch p{
-	margin:0px auto;
-	padding:0px 150px;
-
-	max-width:720px;
-
-	font-size:22px;
-}
-
-.panels .img{
-	background:rgb(220,220,220) !important;
-}
-.panels .img h1{
-	padding:100px 145px;
-
-	font-weight:700;
-  font-family:Arial;
-	font-size:50px;
-
-	color:rgb(255,255,255);
-}
-@media screen and (max-width: 1250px){
-	.panels .img h1{
-		padding:80px 125px;
-	}
-}
-@media screen and (max-width: 1090px){
-	.arrow{
-		display:none;
-	}
-
-	.panels .img h1{
-		padding:0px;
-
-		text-align:center;
-
-		line-height:200px;
-	}
-}
-@media screen and (max-width: 900px){
-	.pitch p{
-		font-size:20px;
-	}
-}
-@media screen and (max-width: 700px){
-	.pitch p{
-		padding:0px 50px;
-	}
-	.pitch h1{
-		padding:0px 50px;
-		padding-bottom:25px;
-	}
-}
-
-.arrow{
-	text-align:center;
-
-	padding:28px 0px 0px 0px;
-
-	font-family:'lato';
-	font-size:18px;
-	font-weight:400;
-
-	color:rgb(102,102,102);
-}
-
-</style>
 <html>
 <head>
 <meta charset="utf-8"/>
@@ -112,18 +11,18 @@
 <meta content="yes" name="apple-mobile-web-app-capable"></meta>
 <meta content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" name="viewport"></meta>
 
-<link rel="stylesheet" href="/css/resets.css"/>
-<link rel="stylesheet" href="/css/global.css"/>
-<link rel="stylesheet" href="/css/header.css"/>
-<link rel="stylesheet" href="/css/footer.css"/>
-<link rel="stylesheet" href="/css/panels.css"/>
-<link rel="stylesheet" href="/fonts/social/font.css"/>
+<link rel="stylesheet" href="/assets/css/resets.css"/>
+<link rel="stylesheet" href="/assets/css/global.css"/>
+<link rel="stylesheet" href="/assets/css/header.css"/>
+<link rel="stylesheet" href="/assets/css/goals.css"/>
+<link rel="stylesheet" href="/assets/css/footer.css"/>
+<link rel="stylesheet" href="/assets/css/panels.css"/>
+<link rel="stylesheet" href="/assets/fonts/social/font.css"/>
 
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'></link>
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'></link>
 
-<script src='/resources/scripts/googleanalytics.js'></script>
-<script src='/resources/scripts/panels.js'></script>
+<script src='/assets/scripts/panels.js'></script>
 
 </head>
 <body>
@@ -131,7 +30,7 @@
 <div class='header'>
 	<a href='/' class='logo'>Scott Van Gilder</a>
 	<div class='nav'>
-		<a href='/portfolio.html'>PORTFOLIO</a>
+		<a href='/goals.html'>GOALS</a>
 		<a href='/contact.html'>CONTACT</a>
 	</div>
 	<div class='share'>
@@ -150,7 +49,7 @@
 <div class='panels'>
 
 	<div class='panel'>
-		<div class='img'><img src='/images/github.png'/></div>
+		<div class='img'><img src='/assets/images/github.png'/></div>
 		<div class='content'>
 			<h1>GitHub<space></space><label><a href='https://github.com/ScottyVG'> Check out my GitHub repositories </a></label></h1>
 			<h2>Currently I'm working on advancing my jQuery skills. Also I'm currently working to launch a few new websites this month for my clients.</h2>

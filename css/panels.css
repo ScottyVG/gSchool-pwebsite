@@ -65,7 +65,7 @@
 	overflow:visible;
 
 	font-size:22px;
-	font-family:lato;
+	font-family: 'Roboto Mono', monospace;
 	font-weight:300;
 
 	padding:0px 20px;
@@ -98,7 +98,7 @@
 	margin:10px 0px;
 
 
-	font-family:Arial;
+	font-family: 'Roboto Mono', monospace;
 	font-size:12px;
 	font-weight:400;
 

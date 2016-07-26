@@ -1,0 +1,97 @@
+.pitch{
+	background:rgb(235,235,235);
+	background-image:url(/images/book.jpg);
+	background-size:cover;
+
+	color:rgba(255,255,255,0.7);
+
+	padding:15% 0px;
+
+	font-family:'lato';
+	font-weight:400;
+	text-align:center;
+}
+.pitch h1{
+	font-size:35px;
+
+	color:rgb(255,255,255);
+
+	font-weight:700;
+
+	margin:0px;
+	padding:0px 100px;
+	padding-bottom:25px;
+}
+.pitch h1:before{
+	content:'Welcome to my ';
+
+	font-weight:400;
+
+	font-size:28px;
+	color:rgba(255,255,255,0.7);
+}
+.pitch p{
+	margin:0px auto;
+	padding:0px 150px;
+
+	max-width:720px;
+
+	font-size:22px;
+}
+
+.panels .img{
+	background:rgb(220,220,220) !important;
+}
+.panels .img h1{
+	padding:100px 145px;
+
+	font-weight:700;
+  font-family:Arial;
+	font-size:50px;
+
+	color:rgb(255,255,255);
+}
+@media screen and (max-width: 1250px){
+	.panels .img h1{
+		padding:80px 125px;
+	}
+}
+@media screen and (max-width: 1090px){
+	.arrow{
+		display:none;
+	}
+
+	.panels .img h1{
+		padding:0px;
+
+		text-align:center;
+
+		line-height:200px;
+	}
+}
+@media screen and (max-width: 900px){
+	.pitch p{
+		font-size:20px;
+	}
+}
+@media screen and (max-width: 700px){
+	.pitch p{
+		padding:0px 50px;
+	}
+	.pitch h1{
+		padding:0px 50px;
+		padding-bottom:25px;
+	}
+}
+
+.arrow{
+	text-align:center;
+
+	padding:28px 0px 0px 0px;
+
+	font-family:'lato';
+	font-size:18px;
+	font-weight:400;
+
+	color:rgb(102,102,102);
+}

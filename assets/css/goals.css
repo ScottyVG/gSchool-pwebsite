@@ -1,4 +1,4 @@
-.pitch{
+.goals{
 	background:rgb(235,235,235);
 	background-image:url(/assets/images/book.jpg);
 	background-size:cover;
@@ -11,7 +11,7 @@
 	font-weight:400;
 	text-align:center;
 }
-.pitch h1{
+.goals h1{
 	font-size:35px;
 
 	color:rgb(255,255,255);
@@ -22,15 +22,15 @@
 	padding:0px 100px;
 	padding-bottom:25px;
 }
-.pitch h1:before{
-	content:'Welcome to my ';
+.goals h1:before{
+	content:'Why ';
 
 	font-weight:400;
 
 	font-size:28px;
 	color:rgba(255,255,255,0.7);
 }
-.pitch p{
+.goals p{
 	margin:0px auto;
 	padding:0px 150px;
 
@@ -70,15 +70,15 @@
 	}
 }
 @media screen and (max-width: 900px){
-	.pitch p{
+	.goals p{
 		font-size:20px;
 	}
 }
 @media screen and (max-width: 700px){
-	.pitch p{
+	.goals p{
 		padding:0px 50px;
 	}
-	.pitch h1{
+	.goals h1{
 		padding:0px 50px;
 		padding-bottom:25px;
 	}

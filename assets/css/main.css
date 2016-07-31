@@ -72,7 +72,7 @@
 .preview .tags{
 	display:inline-block;
 
-	font-family:'Roboto Mono', monospace;
+	font-family:raleway;
 	text-align:left;
 
 	margin:30px;
@@ -139,7 +139,7 @@
 	font-size:16px;
 	font-weight:700;
 }
-.preview .tag h2{
+.preview .tag p{
 	margin:0px;
 	padding:0px;
 
@@ -186,86 +186,14 @@
 	left:3px;
 }
 
-.skills{
-	padding:40px 100px 40px 20px;
-}
-.skills .skill{
-	display:inline-block;
-
-	margin:16px;
-
-	font-size:13px;
-	font-weight:700;
-
-	line-height:20px;
-}
-.skills .skill .slider{
-	height:20px;
-	width:200px;
-
-	background:rgb(255,255,255);
-
-	overflow:hidden;
-}
-.skills .skill bar{
-	display:block;
-	height:100%;
-
-	background:rgb(203,78,78);
-}
-
 .arrow{
 	text-align:center;
 
 	padding:28px 0px 0px 0px;
 
-	font-family: 'Roboto Mono', monospace;
+	font-family:raleway;
 	font-size:18px;
 	font-weight:400;
 
 	color:rgb(102,102,102);
-}
-
-@media screen and (max-width: 1250px){
-	.skills{
-		padding:20px 70px 20px 20px;
-	}
-	.skills .skill .slider{
-		width:160px;
-	}
-}
-@media screen and (max-width: 1090px){
-	.arrow{
-		background:rgb(235,235,235);
-	}
-
-	.skills{
-		padding:30px 20px;
-
-		text-align:center;
-
-		background:rgb(200,200,200);
-	}
-	.skills .skill{
-		text-align:left;
-	}
-}
-@media screen and (max-width: 450px){
-	.arrow{
-		display:none;
-	}
-
-	.skills{
-		background:rgb(235,235,235);
-	}
-	.skills .skill{
-		margin:6px;
-	}
-	.skills .skill .slider{
-		width:100px;
-	}
-
-	.preview{
-		display:none;
-	}
 }

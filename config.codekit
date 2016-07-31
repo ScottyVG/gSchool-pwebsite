@@ -85,46 +85,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/calderflamingo.jpg": {
+	"\/assets\/images\/brightin.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5.82549e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/calderflamingo.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/calderflamingo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/coffee.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5.75053e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/coffee.jpeg",
-		"outputAbbreviatedPath": "\/assets\/images\/coffee.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/concentrix.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20001,
-		"inputAbbreviatedPath": "\/assets\/images\/concentrix.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/concentrix.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/contact.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 217401,
-		"inputAbbreviatedPath": "\/assets\/images\/contact.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/contact.jpg",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/brightin.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/brightin.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -162,6 +129,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/macbook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.35571e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/macbook.png",
+		"outputAbbreviatedPath": "\/assets\/images\/macbook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/mrkitty.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -180,6 +158,17 @@
 		"initialSize": 8.48504e+06,
 		"inputAbbreviatedPath": "\/assets\/images\/scottvangilder.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/scottvangilder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/snowmass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9.24581e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/snowmass.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/snowmass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -217,27 +206,27 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/wackerdrive.jpg": {
+	"\/assets\/images\/thewaythingswork.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6.30525e+06,
-		"inputAbbreviatedPath": "\/assets\/images\/wackerdrive.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/wackerdrive.jpg",
+		"initialSize": 2.07961e+06,
+		"inputAbbreviatedPath": "\/assets\/images\/thewaythingswork.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/thewaythingswork.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/scripts\/googleanalytics.js": {
-		"fileType": 64,
+	"\/assets\/images\/wordcloud.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/scripts\/googleanalytics.js",
-		"outputAbbreviatedPath": "\/assets\/scripts\/min\/googleanalytics-min.js",
+		"initialSize": 184303,
+		"inputAbbreviatedPath": "\/assets\/images\/wordcloud.png",
+		"outputAbbreviatedPath": "\/assets\/images\/wordcloud.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
 	"\/assets\/scripts\/panels.js": {
 		"fileType": 64,
@@ -249,35 +238,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/classie.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/classie.js",
-		"outputAbbreviatedPath": "\/min\/classie-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/contact.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/contact.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/goals.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/goals.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/goals.html": {
 		"fileType": 8192,
@@ -326,8 +286,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "ScottVanGilder.com",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "precourse www",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_orange"
 	},
 "projectSettings": {
